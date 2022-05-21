@@ -5,10 +5,10 @@ Angular-Auto-Unsubscribe does this automatically
 
 # Installation
 
-`
+```
 npm i angular-auto-unsubscribe --save
 
-`
+```
 
 # Usage
 
