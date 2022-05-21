@@ -1,6 +1,6 @@
 {
   "name": "angular-auto-unsubscribe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "To improve the angular application performance we need to implement ngOnDestroy in each and every component and we need to manually make the component variable undefined and call unsubscribe for the subscriptions for Angular application performance improvement. Angular-Auto-Unsubscribe does this automatically",
   "main": "index.js",
   "scripts": {
