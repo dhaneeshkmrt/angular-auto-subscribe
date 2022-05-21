@@ -1,0 +1,27 @@
+{
+  "name": "angular-auto-unsubscribe",
+  "version": "1.0.0",
+  "description": "To improve the angular application performance we need to implement ngOnDestroy in each and every component and we need to manually make the component variable undefined and call unsubscribe for the subscriptions for Angular application performance improvement. Angular-Auto-Unsubscribe does this automatically",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhaneeshkmrt/angular-auto-subscribe.git"
+  },
+  "keywords": [
+    "Angular",
+    "Auto-Unsubscribe",
+    "Angular Performance Improvement",
+    "ngOnDestroy",
+    "AutoUnSubscribe decorator",
+    "Observable unsubscribe decorator"
+  ],
+  "author": "Dhaneesh Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhaneeshkmrt/angular-auto-subscribe/issues"
+  },
+  "homepage": "https://github.com/dhaneeshkmrt/angular-auto-subscribe#readme"
+}
